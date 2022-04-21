@@ -85,16 +85,6 @@ img{
 	margin-left: 15px;
 }
 
-.pix-box img::after{
-	width: 40px;
-	height: 40px;
-	position:relative;
-	top:0;
-	right:0;
-	bottom: 0;
-	left: 0;
-	background-color: #ef3434;
-}
 
 @media screen and (max-width: 760px){
 	.cd-card-inner{
