@@ -95,7 +95,11 @@ img{
 	background-color: #ef3434;
 }
 
-
+@media screen and (max-width: 760px){
+	.cd-card-inner{
+		font-size: 20px;
+	}
+}
 
 
 
