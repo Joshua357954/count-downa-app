@@ -64,11 +64,12 @@ img{
 }
 
 .cd-card-inner{
-	background-color: lightblue;
+	/*background-color: lightblue;*/
 	font-size: 50px;
 	color:#fb6183;
 	font-weight: 900;
 	padding:25px;
+	z-index: 4;
 	background-color:#2c2c44 ;
 }
 
