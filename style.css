@@ -77,7 +77,7 @@ img{
 .pix-box{
 	position: absolute;
 	display: flex;
-	bottom: 100px;
+	bottom: 50px;
 	z-index: 30;
 }
 
